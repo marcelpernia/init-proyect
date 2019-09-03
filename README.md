@@ -1,2 +1,2 @@
 # init-proyect
-Código base para proyectos front-end
+Código base con workflow de webpack para proyectos front-end
