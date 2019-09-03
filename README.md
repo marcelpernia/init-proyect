@@ -1,6 +1,6 @@
 # init-proyect
 Código base con workflow de webpack para proyectos front-end
-
+<pre>
 "dependencies": {
     "autoprefixer": "^9.6.1",
     "css-loader": "^3.2.0",
@@ -18,3 +18,5 @@ Código base con workflow de webpack para proyectos front-end
     "webpack-cli": "^3.3.7",
     "webpack-dev-server": "^3.8.0"
   }
+</pre>
+
