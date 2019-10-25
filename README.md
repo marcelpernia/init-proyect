@@ -1,5 +1,5 @@
 # init-proyect
-He creado este código base con workflow de webpack ya configurado, para comenzar proyectos de front-end rápidamente.
+Código base con workflow de webpack ya configurado, para comenzar proyectos de front-end rápidamente.
 <pre>
     <code>
         "dependencies": {
